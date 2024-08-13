@@ -6,7 +6,7 @@ A solution to the font problems on servers with GeyserMC, modifies the Minecraft
 
 This project depends on the following resources:
 
-- Monocraft / Part of the source is taken here: https://github.com/IdreesInc/Monocraft/
+- Monocraft / Part of the font is taken here: https://github.com/IdreesInc/Monocraft/
 - Glyph Tools / Thanks to this tool, it was possible to add some symbols that did not exist in Bedrock: https://github.com/NhanAZ/glyph
 
 Special thanks to:
