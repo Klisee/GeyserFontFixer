@@ -1,4 +1,4 @@
-<img src="https://github.com/Klisee/Mexican-Pack/assets/85597531/866ef9ca-5958-4733-ab44-c5b87a6c8b3b" width="500"/>
+<img src="[https://github.com/user-attachments/assets/af25bc03-1741-467b-80d4-5fe6773acdf8]" width="500"/>
 
 A solution to the font problems on servers with GeyserMC, modifies the Minecraft Bedrock font to fix the text problems.
 
@@ -14,4 +14,4 @@ Special thanks to:
 - coztellation: To her for making much of this project possible, fixing some existing problems and giving me permission to use some of her work.
 
 
-# GeyserFontFixerr
+# GeyserFontFixerr![geyserfontfixer]()
