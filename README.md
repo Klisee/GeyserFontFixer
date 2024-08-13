@@ -13,5 +13,3 @@ Special thanks to:
 
 - coztellation: To her for making much of this project possible, fixing some existing problems and giving me permission to use some of her work.
 
-
-# GeyserFontFixerr![geyserfontfixer]()
