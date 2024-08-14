@@ -22,3 +22,13 @@ Special thanks to:
 Simply edit the Bedrock font, changing several glphys to fix the font when using special characters and add some missing characters, allows you to greatly enhance the experience for your Bedrock Edition players
 <p align="center">
    <img src="https://github.com/user-attachments/assets/84fb42a2-e349-49cf-9277-307c726b5f4e" width="800"/>
+
+# Current limitations
+
+Unfortunately it is not possible to fix everything, and there are some mistakes you should be aware of before using this fix
+
+# Broken Scoreboard
+
+If you have a very long text in the Scoreboard it will be partially broken, and the text will appear incomplete, this is a Bedrock bug and there is no current fix
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/e741f0fa-20c7-400e-96e7-c6f04a34c283" width="800"/>
