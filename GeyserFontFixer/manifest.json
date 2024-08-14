@@ -3,7 +3,7 @@
    "header": {
        "description": "pack.description",
        "name": "§k§l§f||||§r §lGeyserFontFixer ||||",
-       "uuid": "1c4dd29a-8289-4200-9e1a-cb718b97e922",
+       "uuid": "b8730c6b-402f-4884-97d6-d112de4aa1fc",
        "version": [1, 0, 0],
        "min_engine_version": [ 1, 20, 0 ]
    },
@@ -15,7 +15,7 @@
        {
            "description": "pack.description",
            "type": "resources",
-           "uuid": "bf779a70-0b09-41c3-9578-2a051432240b",
+           "uuid": "4efa8fb2-a976-4904-9ffb-cf7c078498a9",
            "version": [1, 0, 0]
        }
    ]
