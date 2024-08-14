@@ -31,4 +31,4 @@ Unfortunately it is not possible to fix everything, and there are some mistakes 
 
 If you have a very long text in the Scoreboard it will be partially broken, and the text will appear incomplete, this is a Bedrock bug and there is no current fix
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/e741f0fa-20c7-400e-96e7-c6f04a34c283" width="800"/>
+   <img src="https://github.com/user-attachments/assets/e741f0fa-20c7-400e-96e7-c6f04a34c283" width="400"/>
