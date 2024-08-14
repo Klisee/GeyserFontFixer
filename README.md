@@ -21,4 +21,4 @@ Special thanks to:
 
 Simply edit the Bedrock font, changing several glphys to fix the font when using special characters and add some missing characters, allows you to greatly enhance the experience for your Bedrock Edition players
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/84fb42a2-e349-49cf-9277-307c726b5f4e" width="300"/>
+   <img src="https://github.com/user-attachments/assets/84fb42a2-e349-49cf-9277-307c726b5f4e" width="800"/>
