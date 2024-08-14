@@ -1,4 +1,5 @@
-<img src="https://github.com/user-attachments/assets/595953a0-bdd4-47f5-bc1f-a50d5c399f66" width="500"/>
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/595953a0-bdd4-47f5-bc1f-a50d5c399f66" width="500"/>
 
 A solution to the font problems on servers with GeyserMC, modifies the Minecraft Bedrock font to fix the text problems.
 <p align="center">
@@ -32,3 +33,14 @@ Unfortunately it is not possible to fix everything, and there are some mistakes 
 If you have a very long text in the Scoreboard it will be partially broken, and the text will appear incomplete, this is a Bedrock bug and there is no current fix
 <p align="center">
    <img src="https://github.com/user-attachments/assets/e741f0fa-20c7-400e-96e7-c6f04a34c283" width="400"/>
+
+## - Unicodes that are impossible to add
+
+The files used for the font, which are the glphys have a format like this "glyph_1DXX" and apart from being an image with different boxes with different symbols, it only supports those 4 characters, other unicodes have a totally different format
+
+Unlike Java Edition it is impossible to edit unicodes separately and depends on UTF-16 (hex) and this symbol "🗡️" would have a format similar to this "0xD83D 0xDDE1" making it impossible to add to Bedrock
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/774de86e-6fef-4c3e-9e17-f1ae4a72ec01" width="400"/>
+
+
