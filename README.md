@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/af25bc03-1741-467b-80d4-5fe6773acdf8" width="500"/>
+<img src="https://github.com/user-attachments/assets/595953a0-bdd4-47f5-bc1f-a50d5c399f66" width="500"/>
 
 A solution to the font problems on servers with GeyserMC, modifies the Minecraft Bedrock font to fix the text problems.
 <p align="center">
