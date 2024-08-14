@@ -25,9 +25,9 @@ Simply edit the Bedrock font, changing several glphys to fix the font when using
 
 # Current limitations
 
-Unfortunately it is not possible to fix everything, and there are some mistakes you should be aware of before using this fix
+Unfortunately it is not possible to fix everything, and there are some mistakes you should be aware of before using this fix, here is a list of all the current limitations that you should consider
 
-# Broken Scoreboard
+## - Broken Scoreboard
 
 If you have a very long text in the Scoreboard it will be partially broken, and the text will appear incomplete, this is a Bedrock bug and there is no current fix
 <p align="center">
