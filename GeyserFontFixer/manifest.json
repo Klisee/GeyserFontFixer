@@ -1,0 +1,22 @@
+{
+   "format_version": 2,
+   "header": {
+       "description": "pack.description",
+       "name": "§k§l§f||||§r §lGeyserFontFixer ||||",
+       "uuid": "1c4dd29a-8289-4200-9e1a-cb718b97e922",
+       "version": [1, 0, 0],
+       "min_engine_version": [ 1, 20, 0 ]
+   },
+   "metadata" : {
+      "authors" : [ "Klisee" ],
+      "url" : "www.klisee.com"
+   },
+   "modules": [
+       {
+           "description": "pack.description",
+           "type": "resources",
+           "uuid": "bf779a70-0b09-41c3-9578-2a051432240b",
+           "version": [1, 0, 0]
+       }
+   ]
+}
