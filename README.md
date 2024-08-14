@@ -36,11 +36,20 @@ If you have a very long text in the Scoreboard it will be partially broken, and 
 
 ## - Unicodes that are impossible to add
 
-The files used for the font, which are the glphys have a format like this "glyph_1DXX" and apart from being an image with different boxes with different symbols, it only supports those 4 characters, other unicodes have a totally different format
+The files used for the font, which are the glphys have a format like this "glyph_1DXX.png" and apart from being an image with different boxes with different symbols, it only supports those 4 characters, other unicodes have a totally different format
 
 Unlike Java Edition it is impossible to edit unicodes separately and depends on UTF-16 (hex) and this symbol "🗡️" would have a format similar to this "0xD83D 0xDDE1" making it impossible to add to Bedrock
 
 <p align="center">
    <img src="https://github.com/user-attachments/assets/774de86e-6fef-4c3e-9e17-f1ae4a72ec01" width="400"/>
+
+## - Text quality bug
+
+GeyserFontFixer contains two versions, the normal version and the Fidelity version, the normal version has 128x128 glyphs and creates a smaller version of other icons which may ruin the experience for some users more demanding on maximum Crossplay.
+
+And GeyserFontFixer Fidelity has its 256x256 glyphs but with the disadvantage of pixelating the font in high resolutions, for other more demanding users this will be a bit annoying, so take that into consideration
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/0567381f-46d9-43a9-82bb-b2d1a0415cf0" width="400"/>
 
 
