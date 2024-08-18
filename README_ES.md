@@ -30,7 +30,8 @@ Unfortunately it is not possible to fix everything, and there are some mistakes 
 
 ## - Scoreboard rota
 
-If you have a very long text in the Scoreboard it will be partially broken, and the text will appear incomplete, this is a Bedrock bug and there is no current fix
+If you have very long text in the Scoreboard it will be partially broken, and the text will appear incomplete. This can be solved by using Geyser's [GeyserOptionalPack](https://github.com/GeyserMC/GeyserOptionalPack) to bypass the character limit.
+
 <p align="center">
    <img src="https://github.com/user-attachments/assets/e8f04287-282e-440a-9af7-41016c940b00" width="400"/>
 
