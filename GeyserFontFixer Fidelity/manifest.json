@@ -3,8 +3,8 @@
    "header": {
        "description": "pack.description",
        "name": "§k§l§f||||§r §lGeyserFontFixer Fidelity ||||",
-       "uuid": "6cc6ff6b-c20e-40eb-8b47-5cc161660f5b",
-       "version": [1, 0, 0],
+       "uuid": "4bfec136-20e3-45bf-9fcd-806ba01914e0",
+       "version": [1, 1, 2],
        "min_engine_version": [ 1, 20, 0 ]
    },
    "metadata" : {
@@ -15,8 +15,8 @@
        {
            "description": "pack.description",
            "type": "resources",
-           "uuid": "0a5895ed-d2a4-4bd4-b487-7e02b281d8d2",
-           "version": [1, 0, 0]
+           "uuid": "44c87c4b-af26-4dce-a1c7-509c907facd0",
+           "version": [1, 1, 2]
        }
    ]
 }
